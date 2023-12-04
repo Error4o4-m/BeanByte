@@ -1,0 +1,35 @@
+Problem Statement:Aerospace schedule
+To find minimum number of aeroplanes needed to complete all the round trips needed to fulfill the daily requirements of the passengers.
+
+Approach:
+Step1: Find out Time taken to reach from one place to another.
+Step2: Find out Number of flights needed to fulfil passengers Requirements.
+Step3:Find out how many round trips are needed and how many single trips are needed.
+Step4: Find out how many planes are needed more to fulfil the requirements making sure all the constraints.
+Step5:Find out how many planes are out of place at the end make them complete there round trip.
+Step6:Add all the required planes to get our answer.
+
+List of Problems
+
+1. Relative velocity
+
+Solution: We will add up the speed of the aeroplane and earth if they are moving in the oppsoite direction and sub there speed if they are moving in opposite direction.
+
+2.Minimum Number of planes 
+solution:Made a table of planes and started it from the source A and slowly and steadly completed all the constrained that were needed .
+
+3.Parking constrained
+solution:Ensured that the number of flights from one station to another is always less than or equal to the parking availabilty of the airports.
+
+4.Extra time
+solution:
+calculated the journey time for both the round trip as well as the single trip and then added the time needed for cooloff and warmup accordingly and also found out no. of flights and then added the time needed for checkups.
+
+5.Time constrained
+solution:Ensured that the time taken is strictly less than 1080 minutes i.e alloted time for navigation. 
+
+
+
+
+	
+			
